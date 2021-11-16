@@ -1,6 +1,6 @@
 ### Hi there, 👋 Joseph's the name 💻
 
-<img src="https://user-images.githubusercontent.com/86774294/141980712-ff363ccd-1b8f-4dcc-bc68-9f81870dbd78.gif" width="800">
+<img src="https://user-images.githubusercontent.com/86774294/141980712-ff363ccd-1b8f-4dcc-bc68-9f81870dbd78.gif" width="700">
 
 
 As an individual Joseph is a goal getter, driven and relentless, a quick-learner and a team-player 
