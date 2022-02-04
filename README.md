@@ -5,7 +5,7 @@
 
 As an individual Joseph is a goal getter, driven and relentless, a quick-learner and a team-player 
 as a professional Joseph is a Software Engineer, fullstack web-developer efficient in languages such as
-JavaScript, SQL, also in HTML and CSS; handy with tools such as(but not limited to) ReactJS, NodeJS, Postgresql, Postman, Git, Github,
+JavaScript, TypeScript, SQL, also in HTML and CSS; handy with tools such as(but not limited to) ReactJS, NodeJS, Mongodb, Postgresql, Postman, Git, Github,
 Slack, Heroku...
 I am open to collaborations and willing to work, you can reach me on `oforkajajoseph@gmail.com`. 👋👋
 
